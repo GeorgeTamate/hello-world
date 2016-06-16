@@ -1,4 +1,6 @@
 # hello-world
 Just a test repository
 
-Los sandwiches en subway esta noche estaban al 2x1.
+2016 Jun 16
+- Edited, commited and pushed this file from local computer.
+- Also added new file "test.txt" from local computer.
